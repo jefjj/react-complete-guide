@@ -1,4 +1,5 @@
 import React from 'react';
+import './UserOutput.css';
 
 const styles = {
   fontSize: '16px',
